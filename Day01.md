@@ -39,6 +39,7 @@ I recommend that you download and extrcat the following [`jsbeautifyrc.zip`](ass
     - **_Optional Step_** - Download and extract the [`jsbeautifyrc.zip`](assets/jsbeautifyrc.zip) to your project folder 
         ![](assets/04_add_format_file.png)
 3. Edit the `sketch.js` file to contain the following :
+
 ```javascript
 function setup()
 {
