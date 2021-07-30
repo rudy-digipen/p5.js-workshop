@@ -26,8 +26,8 @@ I recommend that you download and extrcat the following [`jsbeautifyrc.zip`](ass
 
 ### Create a hello world sketch
 
-1. Open up Visual Studio Code
-2. Create a p5.js Project
+- Open up Visual Studio Code
+- Create a p5.js Project
     - Ctrl+Shift+P
     - Type the word `create`
     - Click on `Create p5.js Project` from the dropdown 
@@ -38,7 +38,7 @@ I recommend that you download and extrcat the following [`jsbeautifyrc.zip`](ass
         ![](assets/03_project_start.png)
     - **_Optional Step_** - Download and extract the [`jsbeautifyrc.zip`](assets/jsbeautifyrc.zip) to your project folder 
         ![](assets/04_add_format_file.png)
-3. Edit the `sketch.js` file to contain the following :
+- Edit the `sketch.js` file to contain the following :
 
 ```javascript
 function setup()
@@ -53,9 +53,9 @@ function draw()
     text("Hello World", 150, 200);
 }
 ```
-4. Click on the Go Live button located on the bottom right of editor. 
+- Click on the Go Live button located on the bottom right of editor. 
     ![](assets/05_go_live_button.png)
-5. You should now see the sketch running in your local web browser
+- You should now see the sketch running in your local web browser
     ![](assets/06_hello_sketch_in_browser.png)
 
 Checkout this [live example](examples/hello/index.html).
