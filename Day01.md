@@ -58,6 +58,8 @@ function draw()
 5. You should now see the sketch running in your local web browser
     ![](assets/06_hello_sketch_in_browser.png)
 
+Checkout this [live example](examples/hello/index.html).
+
 <!-- ## Shapes & Drawings -->
 
 <!-- ## Color -->
