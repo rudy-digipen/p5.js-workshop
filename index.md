@@ -14,7 +14,7 @@ We will launch into the world of writing code through the process of programming
 
 Day | Goal
 ------------ | -------------
-[Day 1](Day01.md)| Get setup with p5.js. Learn about Shapes, Colors, Variables, JSON objects, Remapping values, Random numbers and Debugging
+[Day 1](Day01.md)| Get setup with p5.js. Learn about Shapes, Colors, Variables, Remapping values, Random numbers and Debugging
 
 
 <!-- # Day 2
