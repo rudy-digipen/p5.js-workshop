@@ -61,7 +61,7 @@ If the mouse is in the top left square then draw something there.
 ```
 +-----+-----+
 |     |     |
-| ◕‿↼ |     |
+| ◕‿◕ |     |
 |     |     |
 +-----+-----+
 |     |     |
