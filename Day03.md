@@ -54,9 +54,7 @@ Reference : [Coding Math: Episode 8 - Velocity](https://youtu.be/IpN4NLDpWDY)
 
 Utilizing p5.js sound library, create a physics based space ship with sound effects and images.
 
-Watch the following to model the space ship.
-
-[Coding Math: Episode 10 - Advanced Acceleration](https://youtu.be/4UPiT5lDYe8)
+Reference : [Coding Math: Episode 10 - Advanced Acceleration](https://youtu.be/4UPiT5lDYe8)
 
 ### Exercise Checklist
 
