@@ -16,6 +16,6 @@ Day | Goal
 ------------ | -------------
 [Day 1](Day01.md)| Get setup with p5.js. Learn about Shapes, Colors, Variables, Remapping values, Random numbers and Debugging
 [Day 2](Day02.md)| Learn about Conditional Statements, Loops, Functions, and Classes
-Day 3| Learn about Creating Bigger Projects, Arrays, Image/Sound Media, and Make a simple game project together
+Day 3| Learn about Arrays, Image/Sound Media, and Make a simple game project together
 Day 4| Pitch your Game idea and start making it! 
 Day 5| Complete your Game idea and show it off! 
