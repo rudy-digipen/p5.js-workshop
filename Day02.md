@@ -14,11 +14,17 @@ let number2 = 9;
 let string = '';
 
 if (number1 >= 96)
+{
     string += 'Pitbull is ';
+}
 else if (number1 === 4 || !number2)
+{
     string += 'Poodle is ';
+}
 else
+{
     string += 'Beagle is ';
+}
 
 switch (number2) {
     case 3:
