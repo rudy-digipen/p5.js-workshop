@@ -18,4 +18,4 @@ Day | Goal
 [Day 2](Day02.md)| Learn about Conditional Statements, Loops, Functions, and Classes
 [Day 3](Day03.md)| Learn about Arrays, Image/Sound Media, and Make a simple game project together
 [Day 4](Day04.md)| Pitch your Game idea and start making it! 
-Day 5| Complete your Game idea and show it off! 
+[Day 5](Day05.md)| Complete your Game idea and show it off! 
