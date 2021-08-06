@@ -70,8 +70,8 @@ function preload() {
   fourdadak_back = loadImage("pokemons/Fourdadak_Back.png");
   fourdadakSound = loadSound("sound/Rooster_Cry.mp3");
 
-  azaebot_front = loadImage("pokemons/AZaebot_Front.png");
-  azaebot_back = loadImage("pokemons/AZaebot_Back.png");
+  azaebot_front = loadImage("pokemons/Azaebot_Front.png");
+  azaebot_back = loadImage("pokemons/Azaebot_Back.png");
   azaebotSound = loadSound("sound/porygonz_Cry.mp3");
 
   zzuber_front = loadImage("pokemons/Zzuber_Front.png");
